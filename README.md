@@ -1,7 +1,7 @@
 # 💫 About Me
 I'm Mauricio, a Junior at California State University - East Bay focused on making projects that help fellow students and increase productivity! Additionally, I'm passionate about making sports experiences on platforms such as Roblox.
 
-## What I'm Up To
+## 🔨 What I'm Up To
 * **Pioneer Picks**, a CSUEB student-only app designed to centralize semester planning
   * [Available on the App Store](https://apps.apple.com/us/app/pioneer-picks/id6755741774)
   * **Planned:** Google Play Store availability
