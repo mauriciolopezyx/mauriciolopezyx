@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm Mauricio, a Junior at California State University - East Bay focused on making projects that help fellow students and increase productivity! Additionally, I'm passionate about making sports experiences on platforms such as ROBLOX.
+I'm Mauricio, a Junior at California State University - East Bay focused on making projects that help fellow students and increase productivity! Additionally, I'm passionate about making sports experiences on platforms such as Roblox.
 
 ## What I'm Up To
 * **Pioneer Picks**, a CSUEB student-only app designed to centralize semester planning
