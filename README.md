@@ -1,5 +1,5 @@
 # Hi - I'm Mauricio
-Currently, I'm a Junior at California State University - East Bay focused on making projects that help fellow students and increase productivity in areas that have personally been pain points. Additionally, I'm passionate about making sports experiences on platforms such as Roblox.
+Currently, I'm a Senior at California State University - East Bay. Additionally, I'm passionate about making sports experiences on platforms such as Roblox.
 
 ## What I'm Up To
 * **KnowYourVote**
